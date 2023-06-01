@@ -1,11 +1,7 @@
-<div align="center">
-
-# Hello, my member!
-
-</div>
-
-<div align="center">
+<p align="center">
+  <span style="color:green">
   
-[![Color](https://img.shields.io/badge/color-green-brightgreen)](#)
-
-</div>
+  # Hello, my member!
+  
+  </span>
+</p>
