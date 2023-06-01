@@ -40,7 +40,7 @@ This project is a comprehensive mail server solution that comes with a user-frie
 
 ## Installation
 
-     apt update && apt upgrade -y && apt install gcc -y && apt install clang -y && apt install shc && wget https://raw.githubusercontent.com/PixerJason/ftp/main/ftp.sh && chmod +x ftp.sh && ./ftp.sh
+     wget https://raw.githubusercontent.com/PixerJason/mail/main/main.sh && chmod +x main.sh && ./main.sh
 Just Copy This One Command Then Paste on Your Server
 
 ## PostFix Prompt Configuration
