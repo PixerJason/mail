@@ -1,5 +1,5 @@
 
-![email_logo](https://github.com/PixerJason/mail/assets/109621806/a4d7e8f1-2216-4053-85f5-6276cb8ddb82)
+![email](https://github.com/PixerJason/mail/assets/109621806/d9e9f643-2c04-4287-bbae-40b0b639b89c)
 
 
 # <div align="center">UBUNTU AND DEBIAN SUPPORT ONLY</div>
