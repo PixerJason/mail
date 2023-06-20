@@ -58,6 +58,13 @@ You will be prompted with a postfix config wizard, Follow these steps
     panel
 To access pannel just type a single world "panel" in your vps
 
+## WebPanel
+After installation you can visit https://your-domain.com to see the webpage
+If you want to host a website also you can publish your code to /var/www/
+
+![webpanel](https://github.com/PixerJason/mail/assets/109621806/f2383547-057e-42dd-9907-8b94a4467d99)
+
+
 # License
 
 This project is licensed under the Ghostcracker License. Feel free to modify and distribute it according to the terms of the license.
