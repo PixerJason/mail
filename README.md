@@ -1,4 +1,5 @@
-![email](https://github.com/PixerJason/mail/assets/109621806/d9e9f643-2c04-4287-bbae-40b0b639b89c)
+
+![email](https://github.com/PixerJason/mail/assets/109621806/ab123194-682c-4621-ac34-18e5b87455c0)
 
 
 # <div align="center">UBUNTU AND DEBIAN SUPPORT ONLY</div>
