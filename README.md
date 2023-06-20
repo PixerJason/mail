@@ -55,8 +55,24 @@ You will be prompted with a postfix config wizard, Follow these steps
 - Done
 
 ## Accessing Panel
+
+![mail_panel](https://github.com/PixerJason/mail/assets/109621806/cd4650e8-9bd1-4869-93da-2abf1723df09)
+
     panel
 To access pannel just type a single world "panel" in your vps
+
+## Dns Records
+After accessing the panel, you are required to assign these DNS records to your domain (Cloudflare or wherever you use to point the domain).
+By Choosing Option Number 4
+
+
+![dns_records](https://github.com/PixerJason/mail/assets/109621806/27910278-1f3c-4501-97d1-c89675f324f2)
+
+## Example On Cloudflare
+
+
+![cloudflare_dns](https://github.com/PixerJason/mail/assets/109621806/28b41654-8f98-4123-a392-496a50bb0335)
+
 
 ## WebPanel
 After installation you can visit https://your-domain.com to see the webpage
